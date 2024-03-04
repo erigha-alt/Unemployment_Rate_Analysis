@@ -24,7 +24,6 @@ How to Use
 To replicate the analysis:
 
 Clone this repository to your local machine.
-Install the necessary dependencies listed in requirements.txt.
 Open and run the unemployment_analysis.ipynb Jupyter Notebook using Python.
 Follow the code cells sequentially to reproduce the data cleaning, exploration, visualization, and analysis steps.
 Customize the analysis as needed and explore further insights from the data.
